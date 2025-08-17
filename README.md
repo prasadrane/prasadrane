@@ -3,7 +3,6 @@
 -->
 
 <div align="center">
-  <img src="https://prasadrane.github.io/favicon.png" width="80" alt="Prasad Rane logo" />
   <h1>Hi, I'm Prasad Rane 👋</h1>
   <h3>Engineering Innovative Solutions | Full Stack Developer | Cloud Enthusiast</h3>
   <a href="https://prasadrane.github.io/" target="_blank">🌐 Portfolio</a> • 
@@ -31,10 +30,10 @@ I'm a passionate Full Stack Developer with a knack for building dynamic, engagin
 `JavaScript` · `TypeScript` · `Python` · `Node.js` · `React` · `Next.js` · `Express.js` · `HTML` · `CSS` · `SASS` · `TailwindCSS`
 
 **Cloud & DevOps:**  
-`AWS` · `Azure` · `GCP` · `Docker` · `Kubernetes` · `CI/CD` · `GitHub Actions`
+`AWS` · `Docker` · `Kubernetes` · `CI/CD` · `GitHub Actions`
 
 **Databases:**  
-`MongoDB` · `MySQL` · `PostgreSQL` · `Firebase`
+`DynamoDB` · `MySQL` · `PostgreSQL` · `SqlLite`
 
 **Other:**  
 `UI/UX Design` · `REST APIs` · `GraphQL` · `Agile` · `Testing`
@@ -57,7 +56,7 @@ I'm a passionate Full Stack Developer with a knack for building dynamic, engagin
 
 - **Full Stack Developer**  
   _Built scalable web apps, cloud-native APIs, and robust automation pipelines._  
-  _Experience in product startups and enterprise environments._
+  _Experience in building enterprise level application from zero to production deployment._
 
 - **Cloud & DevOps Engineer**  
   _Designed CI/CD workflows, containerized deployments, and cloud infrastructure._
@@ -69,10 +68,8 @@ I'm a passionate Full Stack Developer with a knack for building dynamic, engagin
 
 🎯 **Quick Stats**
 
-- 💻 Years Coding: _[Add years here if you wish!]_
-- 📂 Public Repos: _[Optional: auto or manual count]_  
-- 🌍 Location: _[Add your location if you wish]_
-
+- 💻 Years Coding: 10+ 
+- 🌍 Location: Illinois
 ---
 
 ✨ **Let's Connect!**
