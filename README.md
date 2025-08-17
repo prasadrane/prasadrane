@@ -27,7 +27,7 @@ I'm a passionate Full Stack Developer with a knack for building dynamic, engagin
 🛠️ **Tech Stack & Skills**
 
 **Languages & Frameworks:**  
-`JavaScript` · `TypeScript` · `Python` · `Node.js` · `React` · `Next.js` · `Express.js` · `HTML` · `CSS` · `SASS` · `TailwindCSS`
+`C#, ASP.NET Core` · `TypeScript` · `Python` · `Node.js` · `Angular` · `Next.js` · `Express.js` · `HTML` · `CSS` · `SASS` · `TailwindCSS`
 
 **Cloud & DevOps:**  
 `AWS` · `Docker` · `Kubernetes` · `CI/CD` · `GitHub Actions`
@@ -37,20 +37,6 @@ I'm a passionate Full Stack Developer with a knack for building dynamic, engagin
 
 **Other:**  
 `UI/UX Design` · `REST APIs` · `GraphQL` · `Agile` · `Testing`
-
----
-
-🚀 **Featured Projects**
-
-- **Portfolio Website:**  
-  _A modern, interactive portfolio with animated backgrounds & responsive UI_  
-  [prasadrane.github.io](https://prasadrane.github.io/)
-
-- **[Add your top project here!]**
-
-- **[Add another! Open Source?]**
-
----
 
 💼 **Professional Journey**
 
