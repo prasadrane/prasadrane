@@ -27,16 +27,17 @@ I'm a passionate Full Stack Developer with a knack for building dynamic, engagin
 🛠️ **Tech Stack & Skills**
 
 **Languages & Frameworks:**  
-`C#, ASP.NET Core` · `TypeScript` · `Python` · `Node.js` · `Angular` · `Next.js` · `Express.js` · `HTML` · `CSS` · `SASS` · `TailwindCSS`
+Proficient: · `C#` · `ASP.NET Core` · `TypeScript` · `Angular` · `NgRx` · `RxJs` · `HTML` · `SASS`
+Familiar: · `Java` · `Python` · `Node.js` · · `Next.js` · `Express.js` · `TailwindCSS`
 
 **Cloud & DevOps:**  
-`AWS` · `Docker` · `Kubernetes` · `CI/CD` · `GitHub Actions`
+`AWS` · `Docker` · `Kubernetes` · `CI/CD` · `CircleCI` · `GitHub Actions`
 
 **Databases:**  
 `DynamoDB` · `MySQL` · `PostgreSQL` · `SqlLite`
 
 **Other:**  
-`UI/UX Design` · `REST APIs` · `GraphQL` · `Agile` · `Testing`
+`UI/UX Design` · `GraphQL` · `Agile` · `Testing`
 
 💼 **Professional Journey**
 
