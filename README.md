@@ -28,7 +28,7 @@ I'm a passionate Full Stack Developer with a knack for building dynamic, engagin
 
 **Languages & Frameworks:**  
 - Proficient: · `C#` · `ASP.NET Core` · `TypeScript` · `Angular` · `NgRx` · `RxJs` · `HTML` · `SASS`
-- Familiar: · `Java` · `Python` · `Node.js` · · `Next.js` · `Express.js` · `TailwindCSS`
+- Familiar: · `Java` · `Python` · `Node.js` · `Next.js` · `Express.js` · `TailwindCSS`
 
 **Cloud & DevOps:**  
 `AWS` · `Docker` · `Kubernetes` · `CI/CD` · `CircleCI` · `GitHub Actions`
