@@ -24,17 +24,32 @@
   </a>
 </p>
 
+<p align="center">
+  <b>📍 Illinois, USA</b>
+</p>
+
+---
+
+### 📊 Professional Highlights at a Glance
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-10+%20Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-35+%20Completed-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Companies-4%20Enterprise-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Expertise-Generative%20AI-red?style=for-the-badge" />
+</p>
+
 ---
 
 ### 🚀 About Me
 
-I am a results-driven **Software Engineer** with over **10 years of experience** in building scalable, enterprise-level web applications. My expertise spans across the full stack, with a deep focus on **.NET**, **Angular**, and **AWS Cloud**.
+I am a results-driven **Software Engineer** with over **10 years of experience** building scalable, high-performance applications for industry leaders like **Rocket Mortgage**. I specialize in **end-to-end system design**, bridging traditional full-stack development with modern **Cloud (AWS)** and **AI technologies**.
 
-Recently, I've been pioneering AI-driven solutions, including engineering an AI-powered loan information chatbot using **Amazon Bedrock (Claude Sonnet)**. I am passionate about bridging traditional development with modern AI tools to create intelligent, efficient solutions.
+My recent focus has been on **AI-driven innovation**, including architecting an AI loan chatbot using **Amazon Bedrock** and leveraging **AI Agents** to accelerate enterprise workflows.
 
-- 🔭 **Currently:** Experimenting with AI Agents and modern backend frameworks.
-- ⚡ **Last Role:** Engineered innovative solutions at Rocket Mortgage.
-- 💡 **Philosophy:** Code simplicity, robust architecture, and seamless UI/UX.
+- 🔭 **Current Focus:** Engineering intelligent systems and mastering modern backend architectures.
+- ⚡ **Proven Track Record:** Delivering robust .NET/Angular solutions from concept to production.
+- 💡 **Passion:** Clean code, seamless UI/UX, and cloud-native scalability.
 - 🎓 **Certified:** AWS Certified Cloud Practitioner.
 
 ---
@@ -52,6 +67,7 @@ Recently, I've been pioneering AI-driven solutions, including engineering an AI-
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-512BD4?style=flat-square" />
 </details>
 
 <details open>
@@ -67,20 +83,30 @@ Recently, I've been pioneering AI-driven solutions, including engineering an AI-
 </details>
 
 <details open>
-  <summary><b>Cloud, DevOps & AI</b></summary>
+  <summary><b>Cloud, AI & Modern Tools</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-8C4FFF?style=flat-square&logo=github-copilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+</details>
+
+<details>
+  <summary><b>Monitoring & Management</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynatrace-732781?style=flat-square&logo=dynatrace&logoColor=white" />
+  <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-00897B?style=flat-square" />
 </details>
 
 ---
 
-### 📊 GitHub Statistics
+### 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prasadrane&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Prasad's GitHub stats" />
