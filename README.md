@@ -106,6 +106,20 @@ My recent focus has been on **AI-driven innovation**, including architecting an 
 
 ---
 
+### 📜 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/337a36b4-0285-460e-b115-2023040ba6b5/public_url" target="_blank">
+    <img src="https://prasadrane.github.io/aws-certified-cloud-practitioner-badge.png" width="120" alt="AWS Certified Cloud Practitioner" />
+  </a>
+  <br/>
+  <b>AWS Certified Cloud Practitioner</b>
+  <br/>
+  <a href="https://www.credly.com/badges/337a36b4-0285-460e-b115-2023040ba6b5/public_url" target="_blank">Verify on Credly</a>
+</p>
+
+---
+
 ### 📈 GitHub Statistics
 
 <p align="center">
@@ -126,9 +140,15 @@ My recent focus has been on **AI-driven innovation**, including architecting an 
 
 ### 🤝 Let's Connect
 
+<p align="center">
+  <a href="https://github.com/prasadrane/PrasadRane.github.io/blob/main/Prasad-Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
 - **LinkedIn:** [linkedin.com/in/rane-prasad](https://linkedin.com/in/rane-prasad)
 - **Portfolio:** [prasadrane.github.io](https://prasadrane.github.io/)
-- **Email:** emailprasadrane@gmail.com
+- **Email:** [emailprasadrane@gmail.com](mailto:emailprasadrane@gmail.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prasadrane&color=blue&style=flat-square" alt="Profile views" />
