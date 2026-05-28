@@ -134,6 +134,8 @@ My recent focus has been on **AI-driven innovation**, including architecting an 
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Starting Enterprise-wide Kafka Governance](https://dev.to/prasad_rane_dev/starting-enterprise-wide-kafka-governance-14e2)
+- [The Feynman Algorithm: A Developer’s Guide to &quot;Thinking Very Hard&quot;](https://dev.to/prasad_rane_dev/the-feynman-algorithm-a-developers-guide-to-thinking-very-hard-384h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
