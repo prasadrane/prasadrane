@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <b>📍 Illinois, USA</b>
+  <b>📍 USA</b>
 </p>
 
 ---
