@@ -20,7 +20,7 @@
 
 | 💼 Experience | 🚀 Shipped Solutions | 🏢 Enterprise Leaders | 🧠 Core Specialization |
 | :---: | :---: | :---: | :---: |
-| **10+ Years** | **35+ Delivered** | **4 Industry Leaders** | **Generative AI & Cloud Architecture** |
+| **10+ Years** | **35+ Delivered** | **4 Industry Leaders** | **.NET, Cloud & Generative AI** |
 
 ---
 
