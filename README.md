@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://prasadrane.github.io/" target="_blank">
+  <a href="https://prasadrane.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/rane-prasad" target="_blank">
@@ -15,9 +15,6 @@
   </a>
   <a href="mailto:emailprasadrane@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/prasadrane/PrasadRane.github.io/blob/main/Prasad-Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <a href="https://dev.to/prasad_rane_dev" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
@@ -57,13 +54,30 @@ My recent focus has been on **AI-driven innovation**, including architecting an 
 ### 🛠️ Technical Expertise
 
 <details open>
+  <summary><b>Generative AI & LLM Systems</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Sonnet-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-8C4FFF?style=flat-square&logo=github-copilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphRAG-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Semantic%20Kernel-512BD4?style=flat-square&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/LanceDB-00D4B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt%20Guardrails-FF4B4B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Intent--to--API%20Routing-00A67E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+</details>
+
+<details open>
   <summary><b>Backend Development</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET%208/9-512BD4?style=flat-square&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=.net&logoColor=white" />
@@ -83,24 +97,24 @@ My recent focus has been on **AI-driven innovation**, including architecting an 
 </details>
 
 <details open>
-  <summary><b>Cloud, AI & Modern Tools</b></summary>
+  <summary><b>Cloud & Modern Tools</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-8C4FFF?style=flat-square&logo=github-copilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 </details>
 
 <details>
-  <summary><b>Monitoring & Management</b></summary>
+  <summary><b>Monitoring & Reliability</b></summary>
   <br/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Dynatrace-732781?style=flat-square&logo=dynatrace&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
   <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white" />
   <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinDbg-0078D7?style=flat-square" />
   <img src="https://img.shields.io/badge/Agile-00897B?style=flat-square" />
 </details>
 
@@ -118,17 +132,6 @@ My recent focus has been on **AI-driven innovation**, including architecting an 
   <a href="https://www.credly.com/badges/337a36b4-0285-460e-b115-2023040ba6b5/public_url" target="_blank">Verify on Credly</a>
 </p>
 
----
-
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasadrane&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Prasad's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadrane&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasadrane&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -143,14 +146,8 @@ My recent focus has been on **AI-driven innovation**, including architecting an 
 
 ### 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/prasadrane/PrasadRane.github.io/blob/main/Prasad-Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
-
 - **LinkedIn:** [linkedin.com/in/rane-prasad](https://linkedin.com/in/rane-prasad)
-- **Portfolio:** [prasadrane.github.io](https://prasadrane.github.io/)
+- **Portfolio:** [prasadrane.vercel.app](https://prasadrane.vercel.app/)
 - **Email:** [emailprasadrane@gmail.com](mailto:emailprasadrane@gmail.com)
 
 <p align="center">
