@@ -7,34 +7,23 @@
 </p>
 
 <p align="center">
-  <a href="https://prasadrane.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/rane-prasad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:emailprasadrane@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://dev.to/prasad_rane_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
+  <a href="https://prasadrane.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://linkedin.com/in/rane-prasad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:emailprasadrane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://dev.to/prasad_rane_dev" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
 </p>
 
 <p align="center">
-  <b>📍 USA</b>
+  <b>📍 Greater Chicago Area, IL &nbsp;•&nbsp; USA</b>
 </p>
 
 ---
 
 ### 📊 Professional Highlights at a Glance
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-10+%20Years-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-35+%20Completed-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Companies-4%20Enterprise-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Expertise-Generative%20AI-red?style=for-the-badge" />
-</p>
+| 💼 Experience | 🚀 Shipped Solutions | 🏢 Enterprise Leaders | 🧠 Core Specialization |
+| :---: | :---: | :---: | :---: |
+| **10+ Years** | **35+ Delivered** | **4 Industry Leaders** | **Generative AI & Cloud Architecture** |
 
 ---
 
@@ -106,7 +95,7 @@ My recent focus has been on **AI-driven innovation**, including architecting an 
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 </details>
 
-<details>
+<details open>
   <summary><b>Monitoring & Reliability</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/Dynatrace-732781?style=flat-square&logo=dynatrace&logoColor=white" />
