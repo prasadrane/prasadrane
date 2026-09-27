@@ -19,7 +19,7 @@
 ### 📊 Professional Highlights at a Glance
 
 | 💼 Experience | 🚀 Shipped Solutions | 🧠 Core Specialization |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: |
 | **10+ Years** | **35+ Delivered** | **.NET, Cloud & Generative AI** |
 
 ---
