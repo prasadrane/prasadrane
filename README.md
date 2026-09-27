@@ -18,9 +18,9 @@
 
 ### 📊 Professional Highlights at a Glance
 
-| 💼 Experience | 🚀 Shipped Solutions | 🏢 Enterprise Leaders | 🧠 Core Specialization |
+| 💼 Experience | 🚀 Shipped Solutions | 🧠 Core Specialization |
 | :---: | :---: | :---: | :---: |
-| **10+ Years** | **35+ Delivered** | **4 Industry Leaders** | **.NET, Cloud & Generative AI** |
+| **10+ Years** | **35+ Delivered** | **.NET, Cloud & Generative AI** |
 
 ---
 
@@ -28,7 +28,7 @@
 
 I am a results-driven **Software Engineer** with over **10 years of experience** building scalable, high-performance applications for industry leaders like **Rocket Mortgage**. I specialize in **end-to-end system design**, bridging traditional full-stack development with modern **Cloud (AWS)** and **AI technologies**.
 
-My recent focus has been on **AI-driven innovation**, including architecting an AI loan chatbot using **Amazon Bedrock** and leveraging **AI Agents** to accelerate enterprise workflows.
+My recent focus has been on **AI-driven innovation**, including architecting an intent-to-API router using **Amazon Bedrock** and leveraging **AI Agents** to accelerate enterprise workflows.
 
 - 🔭 **Current Focus:** Engineering intelligent systems and mastering modern backend architectures.
 - ⚡ **Proven Track Record:** Delivering robust .NET/Angular solutions from concept to production.
